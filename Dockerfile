@@ -64,4 +64,4 @@ RUN touch .Renviron
 #RUN rm STAR.tar.gz
 
 #cleaning
-RUN rm -fr *.tar.gz* .tar.bz2
+#RUN rm -fr *.tar.gz* .tar.bz2
